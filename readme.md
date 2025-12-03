@@ -4,7 +4,8 @@
 This project applies Machine Learning and Data Mining techniques to the FIFA 23 players dataset. The goal is to analyze player statistics, group similar players using unsupervised clustering, and predict player positions using supervised classification models.
 
 ## Dataset
-The project uses the **FIFA 23 Complete Player Dataset**.
+The project uses juste a file from **FIFA 23 Player Dataset** since the complete one was too large to be
+processed with an average power computer.
 - **Source:** Kaggle (`/kaggle/input/fifa-23-complete-player-dataset/male_players (legacy).csv`)
 - **Content:** The dataset includes detailed attributes for over 18,000 players, such as physical stats (age, height, weight), skill ratings (shooting, passing, defending), and financial data (value, wage).
 
